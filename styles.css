@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+.mybanner {
+	font-size: 18px;
+	color:#A530F3;
+	text-align:center;
+	width: 50%;
+	height: 400px;
+	border:inset;
+	border-color:#C0BABA;	
+}
